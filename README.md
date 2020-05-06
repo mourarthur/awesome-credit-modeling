@@ -7,3 +7,7 @@ A growing collection of awesome papers, articles and various resources on credit
 ## Contents
 
 - [Credit Scoring](#credit-scoring)
+
+## Credit Scoring
+
+- [Benchmarking state-of-the-art classification algorithms for credit scoring: An update of research](https://www.sciencedirect.com/science/article/abs/pii/S0377221715004208)
