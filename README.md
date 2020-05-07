@@ -11,3 +11,5 @@ A growing collection of awesome papers, articles and various resources on credit
 ## Credit Scoring
 
 - [Benchmarking state-of-the-art classification algorithms for credit scoring: An update of research](https://www.sciencedirect.com/science/article/abs/pii/S0377221715004208)
+
+- [Classifier Technology and the Illusion of Progress](https://projecteuclid.org/euclid.ss/1149600839)
