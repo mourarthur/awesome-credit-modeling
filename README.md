@@ -12,4 +12,8 @@ A growing collection of awesome papers, articles and various resources on credit
 
 - [Benchmarking state-of-the-art classification algorithms for credit scoring: An update of research](https://www.sciencedirect.com/science/article/abs/pii/S0377221715004208)
 
+- [Classification methods applied to credit scoring: Systematic review and overall comparison](https://www.sciencedirect.com/science/article/abs/pii/S1876735416300101)
+
 - [Classifier Technology and the Illusion of Progress](https://projecteuclid.org/euclid.ss/1149600839)
+
+- [Statistical Classification Methods in Consumer Credit Scoring: A Review](https://www.jstor.org/stable/2983268)
