@@ -7,6 +7,7 @@ A growing collection of awesome papers, articles and various resources on credit
 ## Contents
 
 - [Credit Scoring](#credit-scoring)
+- [Institutional Credit Risk](#institutional-credit-risk)
 
 ## Credit Scoring
 
@@ -17,3 +18,7 @@ A growing collection of awesome papers, articles and various resources on credit
 - [Classifier Technology and the Illusion of Progress](https://projecteuclid.org/euclid.ss/1149600839)
 
 - [Statistical Classification Methods in Consumer Credit Scoring: A Review](https://www.jstor.org/stable/2983268)
+
+##  Institutional Credit Risk
+
+- [Modeling Institutional Credit Risk with Financial News](https://arxiv.org/abs/2004.08204)
