@@ -17,6 +17,8 @@ A growing collection of awesome papers, articles and various resources on credit
 
 - [Classifier Technology and the Illusion of Progress](https://projecteuclid.org/euclid.ss/1149600839)
 
+- [Good practice in retail credit scorecard assessment](https://www.tandfonline.com/doi/abs/10.1057/palgrave.jors.2601932)
+
 - [Statistical Classification Methods in Consumer Credit Scoring: A Review](https://www.jstor.org/stable/2983268)
 
 ##  Institutional Credit Risk
