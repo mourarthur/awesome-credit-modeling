@@ -21,6 +21,8 @@ A growing collection of awesome papers, articles and various resources on credit
 
 - [Good practice in retail credit scorecard assessment](https://www.tandfonline.com/doi/abs/10.1057/palgrave.jors.2601932)
 
+- [A survey of credit and behavioural scoring: forecasting financial risk of lending to consumers](https://www.sciencedirect.com/science/article/abs/pii/S0169207000000340)
+
 - [Statistical Classification Methods in Consumer Credit Scoring: A Review](https://www.jstor.org/stable/2983268)
 
 ##  Institutional Credit Risk
