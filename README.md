@@ -26,3 +26,6 @@ A growing collection of awesome papers, articles and various resources on credit
 ##  Institutional Credit Risk
 
 - [Modeling Institutional Credit Risk with Financial News](https://arxiv.org/abs/2004.08204)
+
+- [Availability of Credit to Small Businesses](https://www.federalreserve.gov/publications/2017-september-availability-of-credit-to-small-businesses.htm)  
+Section 2227 of the Economic Growth and Regulatory Paperwork Reduction Act of 1996 requires that, every five years, the Board of Governors of the Federal Reserve System submit a report to the Congress detailing the extent of small business lending by all creditors. The most recent one is dated September, 2017.
