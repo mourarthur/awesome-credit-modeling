@@ -33,6 +33,8 @@ A growing collection of awesome papers, articles and various resources on credit
 - [Availability of Credit to Small Businesses](https://www.federalreserve.gov/publications/2017-september-availability-of-credit-to-small-businesses.htm)  
 Section 2227 of the Economic Growth and Regulatory Paperwork Reduction Act of 1996 requires that, every five years, the Board of Governors of the Federal Reserve System submit a report to the Congress detailing the extent of small business lending by all creditors. The most recent one is dated September, 2017.
 
+- [Credit Scoring and the Availability, Price, and Risk of Small Business Credit](https://muse.jhu.edu/article/181124)
+
 ## Sample Selection
 
 - [Reject inference, augmentation, and sample selection](https://www.sciencedirect.com/science/article/abs/pii/S0377221706011969)
