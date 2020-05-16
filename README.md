@@ -38,3 +38,5 @@ Section 2227 of the Economic Growth and Regulatory Paperwork Reduction Act of 19
 ## Sample Selection
 
 - [Reject inference, augmentation, and sample selection](https://www.sciencedirect.com/science/article/abs/pii/S0377221706011969)
+
+- [Reject inference in application scorecards: evidence from France](https://econpapers.repec.org/paper/drmwpaper/2016-10.htm)
