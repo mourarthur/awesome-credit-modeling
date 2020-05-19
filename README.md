@@ -7,9 +7,15 @@ A growing collection of awesome papers, articles and various resources on credit
 
 ## Contents
 
+- [Introduction](#introduction)
 - [Credit Scoring](#credit-scoring)
 - [Institutional Credit Risk](#institutional-credit-risk)
 - [Sample Selection](#sample-selection)
+
+## Introduction
+
+-[Machine Learning in Credit Risk Modeling](https://james.finance/static/assets/whitepapers/Machine-Learning-in-Credit-Risk-Modeling-James-white-paper.pdf)
+James (formerly CrowdProcess) is a now-defunct online credit risk management startup that provided risk management tools to financial institutions.
 
 ## Credit Scoring
 
