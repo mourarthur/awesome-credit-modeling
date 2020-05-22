@@ -25,6 +25,8 @@ James (formerly CrowdProcess) is a now-defunct online credit risk management sta
 
 - [Classification methods applied to credit scoring: Systematic review and overall comparison](https://www.sciencedirect.com/science/article/abs/pii/S1876735416300101)
 
+- [A comparative study on base classifiers in ensemble methods for credit scoring](https://www.sciencedirect.com/science/article/abs/pii/S0957417416306947)
+
 - [Classifier Technology and the Illusion of Progress](https://projecteuclid.org/euclid.ss/1149600839)
 
 - [Good practice in retail credit scorecard assessment](https://www.tandfonline.com/doi/abs/10.1057/palgrave.jors.2601932)
