@@ -61,6 +61,8 @@ Section 2227 of the Economic Growth and Regulatory Paperwork Reduction Act of 19
 
 ## Feature Selection
 
+- [A multi-objective approach for profit-driven feature selection in credit scoring](https://www.sciencedirect.com/science/article/pii/S0167923619300570)
+
 - [Combination of feature selection approaches with SVM in credit scoring](https://www.sciencedirect.com/science/article/abs/pii/S0957417409010719)
 
 - [Data mining feature selection for credit scoring models](https://link.springer.com/article/10.1057/palgrave.jors.2601976)
