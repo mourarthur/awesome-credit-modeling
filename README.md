@@ -11,6 +11,7 @@ A growing collection of awesome papers, articles and various resources on credit
 - [Credit Scoring](#credit-scoring)
 - [Institutional Credit Risk](#institutional-credit-risk)
 - [Sample Selection](#sample-selection)
+- [Feature Selection](#feature-selection)
 
 ## Introduction
 
@@ -57,3 +58,7 @@ Section 2227 of the Economic Growth and Regulatory Paperwork Reduction Act of 19
 - [Reject inference, augmentation, and sample selection](https://www.sciencedirect.com/science/article/abs/pii/S0377221706011969)
 
 - [Reject inference in application scorecards: evidence from France](https://econpapers.repec.org/paper/drmwpaper/2016-10.htm)
+
+## Feature Selection
+
+- [Data mining feature selection for credit scoring models](https://link.springer.com/article/10.1057/palgrave.jors.2601976)
