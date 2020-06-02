@@ -22,6 +22,8 @@ James (formerly CrowdProcess) is a now-defunct online credit risk management sta
 
 ## Credit Scoring
 
+- [Super-App Behavioral Patterns in Credit Risk Models: Financial, Statistical and Regulatory Implications](https://arxiv.org/abs/2005.14658)
+
 - [Benchmarking state-of-the-art classification algorithms for credit scoring: An update of research](https://www.sciencedirect.com/science/article/abs/pii/S0377221715004208)
 
 - [Financial credit risk assessment: a recent review](https://dl.acm.org/doi/10.1007/s10462-015-9434-x)
