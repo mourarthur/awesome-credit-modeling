@@ -20,6 +20,8 @@ A growing collection of awesome papers, articles and various resources on credit
 - [Machine Learning in Credit Risk Modeling](https://james.finance/static/assets/whitepapers/Machine-Learning-in-Credit-Risk-Modeling-James-white-paper.pdf)  
 James (formerly CrowdProcess) is a now-defunct online credit risk management startup that provided risk management tools to financial institutions.
 
+- [‘Lending by numbers’: credit scoring and the constitution of risk within American consumer credit](https://www.tandfonline.com/doi/abs/10.1080/03085140601089846)
+
 ## Credit Scoring
 
 - [Super-App Behavioral Patterns in Credit Risk Models: Financial, Statistical and Regulatory Implications](https://arxiv.org/abs/2005.14658)
