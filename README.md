@@ -22,6 +22,8 @@ James (formerly CrowdProcess) is a now-defunct online credit risk management sta
 
 - [‘Lending by numbers’: credit scoring and the constitution of risk within American consumer credit](https://www.tandfonline.com/doi/abs/10.1080/03085140601089846)
 
+- [Machine Learning in Financial Crisis Prediction: A Survey](https://ieeexplore.ieee.org/document/6069610)
+
 ## Credit Scoring
 
 - [Super-App Behavioral Patterns in Credit Risk Models: Financial, Statistical and Regulatory Implications](https://arxiv.org/abs/2005.14658)
