@@ -56,6 +56,8 @@ James (formerly CrowdProcess) is a now-defunct online credit risk management sta
 
 - [Bankruptcy prediction for credit risk using neural networks: A survey and new results](https://ieeexplore.ieee.org/document/935101)
 
+- [Recent developments in consumer credit risk assessment](https://www.sciencedirect.com/science/article/abs/pii/S0377221706011866)
+
 ##  Institutional Credit Risk
 
 - [Modeling Institutional Credit Risk with Financial News](https://arxiv.org/abs/2004.08204)
