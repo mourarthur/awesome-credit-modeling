@@ -46,6 +46,8 @@ James (formerly CrowdProcess) is a now-defunct online credit risk management sta
 
 - [A survey of credit and behavioural scoring: forecasting financial risk of lending to consumers](https://www.sciencedirect.com/science/article/abs/pii/S0169207000000340)
 
+- [The comparisons of data mining techniques for the predictive accuracy of probability of default of credit card clients](https://www.sciencedirect.com/science/article/abs/pii/S0957417407006719)
+
 - [Credit scoring using the clustered support vector machine](https://www.sciencedirect.com/science/article/abs/pii/S0957417414005119)
 
 - [Multiple classifier application to credit risk assessment](https://www.sciencedirect.com/science/article/abs/pii/S0957417409008847) ([Corrigendum](https://www.sciencedirect.com/science/article/pii/S0957417410012364))
