@@ -65,6 +65,8 @@ Section 2227 of the Economic Growth and Regulatory Paperwork Reduction Act of 19
 
 - [Credit Scoring and the Availability, Price, and Risk of Small Business Credit](https://muse.jhu.edu/article/181124)
 
+- [Random Survival Forests Models for SME Credit Risk Measurement](https://link.springer.com/article/10.1007/s11009-008-9078-2)
+
 ## Sample Selection
 
 - [Reject inference, augmentation, and sample selection](https://www.sciencedirect.com/science/article/abs/pii/S0377221706011969)
