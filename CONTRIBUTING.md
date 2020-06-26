@@ -21,3 +21,12 @@ Please ensure your pull request adheres to the following guidelines:
 - Make sure your text editor is set to remove trailing whitespace.
 
 Thank you for your suggestions!
+
+## Adding something to the list
+
+1. Make sure you have a [GitHub Account](https://github.com/join)  
+2. In the project page, click the [`README.md`](README.md) file  
+3. Click on *Edit this file* (pencil icon)  
+4. An editor window will appear. Add your suggested change, making sure to follow the guidelines above.  
+5. When you're done, describe your proposed changes, and then click on *Propose file change*.  
+6. Finally, create your pull request
