@@ -15,15 +15,15 @@ A growing collection of awesome papers, articles and various resources on credit
 
 ## Introduction
 
-- [Consumer Finance: Challenges for Operational Research](https://www.jstor.org/stable/40540227)  
+- [Consumer Finance: Challenges for Operational Research](https://www.jstor.org/stable/40540227) - Reviews the development of credit scoring (the way of assessing risk in consumer finance) and what is meant by a credit score. It then outlines 10 challenges for Operational Research to support modelling in consumer finance.
 
 - [Machine Learning in Credit Risk Modeling](https://james.finance/static/assets/whitepapers/Machine-Learning-in-Credit-Risk-Modeling-James-white-paper.pdf) - James (formerly CrowdProcess) is a now-defunct online credit risk management startup that provided risk management tools to financial institutions.  
 
-- [‘Lending by numbers’: credit scoring and the constitution of risk within American consumer credit](https://www.tandfonline.com/doi/abs/10.1080/03085140601089846) - Examines how statistical credit-scoring technologies became applied by lenders to the problem of controlling levels of default within American consumer credit. Explores their methodological, procedural and temporal risks.  
+- ['Lending by numbers': credit scoring and the constitution of risk within American consumer credit](https://www.tandfonline.com/doi/abs/10.1080/03085140601089846) - Examines how statistical credit-scoring technologies became applied by lenders to the problem of controlling levels of default within American consumer credit. Explores their perceived methodological, procedural and temporal risks.  
 
-- [Machine Learning in Financial Crisis Prediction: A Survey](https://ieeexplore.ieee.org/document/6069610)
+- [Machine Learning in Financial Crisis Prediction: A Survey](https://ieeexplore.ieee.org/document/6069610) - Since the 1990s, machine-learning techniques, such as neural networks and decision trees, have been studied extensively as tools for bankruptcy prediction and credit score modeling. This paper reviews 130 related journal papers from the period between 1995 and 2010, focusing on the development of state-of-the-art machine-learning techniques, comparing them in terms of classifier design, datasets, baselines, and other experimental factors. It then presents the current achievements and limitations associated with the development of bankruptcy-prediction and credit-scoring models employing machine learning.
 
-- [Consumer credit-risk models via machine-learning algorithms](https://alo.mit.edu/wp-content/uploads/2015/06/Household-behaviorConsumer-credit-riskCredit-card-borrowingMachine-learningNonparametric-estimation.pdf)
+- [Consumer credit-risk models via machine-learning algorithms](https://alo.mit.edu/wp-content/uploads/2015/06/Household-behaviorConsumer-credit-riskCredit-card-borrowingMachine-learningNonparametric-estimation.pdf)  
 
 ## Credit Scoring
 
