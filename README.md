@@ -62,13 +62,13 @@ A growing collection of awesome papers, articles and various resources on credit
 
 ##  Institutional Credit Risk
 
-- [Modeling Institutional Credit Risk with Financial News](https://arxiv.org/abs/2004.08204)
+- [Modeling Institutional Credit Risk with Financial News](https://arxiv.org/abs/2004.08204) - Current work in downgrade risk modeling depends on multiple variations of quantitative measures provided by third-party rating agencies and risk management consultancy companies. As these structured numerical data become increasingly commoditized among institutional investors, there has been a wide push into using alternative sources of data, such as financial news, earnings call transcripts, or social media content, to possibly gain a competitive edge in the industry. This paper proposes a predictive downgrade model using solely news data represented by neural network embeddings.
 
 - [Availability of Credit to Small Businesses](https://www.federalreserve.gov/publications/2017-september-availability-of-credit-to-small-businesses.htm) - Section 2227 of the Economic Growth and Regulatory Paperwork Reduction Act of 1996 requires that, every five years, the Board of Governors of the Federal Reserve System submit a report to the Congress detailing the extent of small business lending by all creditors. The most recent one is dated September, 2017.  
 
-- [Credit Scoring and the Availability, Price, and Risk of Small Business Credit](https://muse.jhu.edu/article/181124)
+- [Credit Scoring and the Availability, Price, and Risk of Small Business Credit](https://muse.jhu.edu/article/181124) - Finds that small business credit scoring is associated with expanded quantities, higher averages prices, and greater average risk levels for small business credits under $100,000, after controlling for bank size and other differences across banks.
 
-- [Random Survival Forests Models for SME Credit Risk Measurement](https://link.springer.com/article/10.1007/s11009-008-9078-2)
+- [Random Survival Forests Models for SME Credit Risk Measurement](https://link.springer.com/article/10.1007/s11009-008-9078-2) - Extends the existing literature on empirical research in the field of credit risk default for Small Medium Enterprizes, proposing a non-parametric approach based on Random Survival Forests (RSF) and comparing its performance with a standard logit model.
 
 ## Sample Selection
 
