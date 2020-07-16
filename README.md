@@ -52,7 +52,7 @@ A growing collection of awesome papers, articles and various resources on credit
 
 - [Multiple classifier application to credit risk assessment](https://www.sciencedirect.com/science/article/abs/pii/S0957417409008847) ([Corrigendum](https://www.sciencedirect.com/science/article/pii/S0957417410012364))
 
-- [Consumer credit-risk models via machine-learning algorithms](https://alo.mit.edu/wp-content/uploads/2015/06/Household-behaviorConsumer-credit-riskCredit-card-borrowingMachine-learningNonparametric-estimation.pdf)  
+- [Consumer credit-risk models via machine-learning algorithms](https://alo.mit.edu/wp-content/uploads/2015/06/Household-behaviorConsumer-credit-riskCredit-card-borrowingMachine-learningNonparametric-estimation.pdf) - The authors apply machine-learning techniques to construct nonlinear nonparametric forecasting models of consumer credit risk. By combining customer transactions and credit bureau data from January 2005 to April 2009 for a sample of a major commercial bank’s customers, they are able to construct out-of-sample forecasts that signiﬁcantly improve the classiﬁcation rates of credit-card-holder delinquencies and defaults. Using conservative assumptions for the costs and beneﬁts of cutting credit lines based on machine-learning forecasts, they estimate the cost savings to range from 6% to 25% of total losses.  
 
 - [Statistical Classification Methods in Consumer Credit Scoring: A Review](https://www.jstor.org/stable/2983268)
 
