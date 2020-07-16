@@ -70,6 +70,8 @@ A growing collection of awesome papers, articles and various resources on credit
 
 - [Random Survival Forests Models for SME Credit Risk Measurement](https://link.springer.com/article/10.1007/s11009-008-9078-2) - Extends the existing literature on empirical research in the field of credit risk default for Small Medium Enterprizes, proposing a non-parametric approach based on Random Survival Forests (RSF) and comparing its performance with a standard logit model.
 
+- [Credit Risk Assessment Using Statistical and Machine Learning: Basic Methodology and Risk Modeling Applications](https://link.springer.com/article/10.1023/A:1008699112516) - Risk assessment of financial intermediaries is an area of renewed interest due to the financial crises of the 1980's and 90's. An accurate estimation of risk, and its use in corporate or global financial risk models, could be translated into a more efficient use of resources. One important ingredient to accomplish this goal is to find accurate predictors of individual risk in the credit portfolios of institutions. In this context the authors make a comparative analysis of different statistical and machine learning modeling methods of classification on a mortgage loan dataset with the motivation to understand their limitations and potential. They introduced a specific modeling methodology based on the study of error curves.  
+
 ## Sample Selection
 
 - [Reject inference in application scorecards: evidence from France](https://econpapers.repec.org/paper/drmwpaper/2016-10.htm) - Good introduction and discussion on the topic.  
