@@ -27,6 +27,14 @@ Thank you for your suggestions!
 1. Make sure you have a [GitHub Account](https://github.com/join)  
 2. In the project page, click the [`README.md`](README.md) file  
 3. Click on *Edit this file* (pencil icon)  
+
+![Item 3 - Click on Edit](https://user-images.githubusercontent.com/57960694/87834572-2668b280-c861-11ea-8bee-4ff94220cfee.png)
+
 4. An editor window will appear. Add your suggested change, making sure to follow the guidelines above.  
-5. When you're done, describe your proposed changes, and then click on *Propose file change*.  
-6. Finally, create your pull request
+5. When you're done, describe your proposed changes, and then click on *Propose file change*.
+
+![Item 5 - Propose file change](https://user-images.githubusercontent.com/57960694/87834568-25378580-c861-11ea-8ae5-bec529a481bd.png)
+
+6. Finally, create your pull request 
+
+![Item 6 - Create your pull request](https://user-images.githubusercontent.com/57960694/87834574-27014900-c861-11ea-843b-f2fdf7b130f1.png)
