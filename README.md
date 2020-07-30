@@ -15,6 +15,8 @@ A growing collection of awesome papers, articles and various resources on credit
 
 ## Introduction
 
+- [Statistical Classification Methods in Consumer Credit Scoring: A Review](https://www.jstor.org/stable/2983268) - Classic introduction and review of the subject of credit scoring. 
+
 - [Consumer Finance: Challenges for Operational Research](https://www.jstor.org/stable/40540227) - Reviews the development of credit scoring (the way of assessing risk in consumer finance) and what is meant by a credit score. Outlines 10 challenges for Operational Research to support modelling in consumer finance.
 
 - [Machine Learning in Credit Risk Modeling](https://james.finance/static/assets/whitepapers/Machine-Learning-in-Credit-Risk-Modeling-James-white-paper.pdf) - James (formerly CrowdProcess) is a now-defunct online credit risk management startup that provided risk management tools to financial institutions. This whitepaper offers an overview of machine learning applications in the field of credit risk modeling.
@@ -52,8 +54,6 @@ A growing collection of awesome papers, articles and various resources on credit
 - [Multiple classifier application to credit risk assessment](https://www.sciencedirect.com/science/article/abs/pii/S0957417409008847) ([Corrigendum](https://www.sciencedirect.com/science/article/pii/S0957417410012364))
 
 - [Consumer credit-risk models via machine-learning algorithms](https://alo.mit.edu/wp-content/uploads/2015/06/Household-behaviorConsumer-credit-riskCredit-card-borrowingMachine-learningNonparametric-estimation.pdf) - The authors apply machine-learning techniques to construct nonlinear nonparametric forecasting models of consumer credit risk. They are able to construct out-of-sample forecasts that signiﬁcantly improve the classiﬁcation rates of credit-card-holder delinquencies and defaults.  
-
-- [Statistical Classification Methods in Consumer Credit Scoring: A Review](https://www.jstor.org/stable/2983268)
 
 - [Bankruptcy prediction for credit risk using neural networks: A survey and new results](https://ieeexplore.ieee.org/document/935101)
 
