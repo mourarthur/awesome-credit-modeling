@@ -55,9 +55,9 @@ A growing collection of awesome papers, articles and various resources on credit
 
 - [Consumer credit-risk models via machine-learning algorithms](https://alo.mit.edu/wp-content/uploads/2015/06/Household-behaviorConsumer-credit-riskCredit-card-borrowingMachine-learningNonparametric-estimation.pdf) - The authors apply machine-learning techniques to construct nonlinear nonparametric forecasting models of consumer credit risk. They are able to construct out-of-sample forecasts that signiﬁcantly improve the classiﬁcation rates of credit-card-holder delinquencies and defaults.  
 
-- [Bankruptcy prediction for credit risk using neural networks: A survey and new results](https://ieeexplore.ieee.org/document/935101)
+- [Bankruptcy prediction for credit risk using neural networks: A survey and new results](https://ieeexplore.ieee.org/document/935101) - The prediction of corporate bankruptcies is an important and widely studied topic since it can have significant impact on bank lending decisions and profitability. This work reviews the topic of bankruptcy prediction, with emphasis on neural-network (NN) models and develops an NN bankruptcy prediction model, proposing novel indicators for the NN system.
 
-- [Recent developments in consumer credit risk assessment](https://www.sciencedirect.com/science/article/abs/pii/S0377221706011866)
+- [Recent developments in consumer credit risk assessment](https://www.sciencedirect.com/science/article/abs/pii/S0377221706011866) - The riskiness of lending to a credit applicant is usually estimated using a logistic regression model though researchers have considered many other types of classifier, but data quality issues may prevent these laboratory based results from being achieved in practice. The training of a classifier on a sample of accepted applicants rather than on a sample representative of the applicant population seems not to result in bias though it does result in difficulties in setting the cut off.
 
 ##  Institutional Credit Risk
 
