@@ -10,6 +10,7 @@ A growing collection of awesome papers, articles and various resources on credit
 - [Introduction](#introduction)
 - [Credit Scoring](#credit-scoring)
 - [Institutional Credit Risk](#institutional-credit-risk)
+- [Peer-to-Peer Lending](#peer-to-peer-lending)
 - [Sample Selection](#sample-selection)
 - [Feature Selection](#feature-selection)
 
@@ -70,6 +71,10 @@ A growing collection of awesome papers, articles and various resources on credit
 - [Random Survival Forests Models for SME Credit Risk Measurement](https://link.springer.com/article/10.1007/s11009-008-9078-2) - Extends the existing literature on empirical research in the field of credit risk default for Small Medium Enterprizes, proposing a non-parametric approach based on Random Survival Forests (RSF) and comparing its performance with a standard logit model.
 
 - [Credit Risk Assessment Using Statistical and Machine Learning: Basic Methodology and Risk Modeling Applications](https://link.springer.com/article/10.1023/A:1008699112516) - An important ingredient to accomplish the goal of a more efficient use of resources through risk modeling is to find accurate predictors of individual risk in the credit portfolios of institutions. In this context the authors make a comparative analysis of different statistical and machine learning modeling methods of classification on a mortgage loan dataset with the motivation to understand their limitations and potential.
+
+## Peer-to-Peer Lending
+
+- [Network based credit risk models](https://www.tandfonline.com/doi/abs/10.1080/08982112.2019.1655159) - Peer-to-Peer lending platforms may lead to cost reduction, and to an improved user experience. These improvements may come at the price of inaccurate credit risk measurements. The authors propose to augment traditional credit scoring methods with “alternative data” that consist of centrality measures derived from similarity networks among borrowers, deduced from their financial ratios.
 
 ## Sample Selection
 
