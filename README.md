@@ -13,6 +13,7 @@ A growing collection of awesome papers, articles and various resources on credit
 - [Peer-to-Peer Lending](#peer-to-peer-lending)
 - [Sample Selection](#sample-selection)
 - [Feature Selection](#feature-selection)
+- [Model Explainability](#model-explainability)
 
 ## Introduction
 
@@ -91,3 +92,9 @@ A growing collection of awesome papers, articles and various resources on credit
 - [Data mining feature selection for credit scoring models](https://link.springer.com/article/10.1057/palgrave.jors.2601976) - The features used may have an important effect on the performance of credit scoring models. The process of choosing the best set of features for credit scoring models is usually unsystematic and dominated by somewhat arbitrary trial. This paper presents an empirical study of four machine learning feature selection methods.
 
 - [Combination of feature selection approaches with SVM in credit scoring](https://www.sciencedirect.com/science/article/abs/pii/S0957417409010719) - An effective classificatory model in credit scoring will objectively help managers who rely on intuitive experience. This study proposes four approaches using the SVM (support vector machine) classifier for feature selection that retain sufficient information for classification purposes.
+
+## Model Explainability
+
+- [Explainable Machine learning in Credit Risk Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3506274) - Proposes an explainable AI model that can be used in credit risk management and, in particular, in measuring the risks that arise when credit is borrowed employing credit scoring platforms.
+
+- [Machine learning explainability in finance: an application to default risk analysis](https://www.bankofengland.co.uk/working-paper/2019/machine-learning-explainability-in-finance-an-application-to-default-risk-analysis) - This Staff Working Paper from the Bank of England proposes a framework for addressing the ‘black box’ problem present in some Machine Learning (ML) applications. It uses the Quantitative Input Inﬂuence (QII) method in a real‑world example. This method investigates the inputs and outputs of the model, but not its inner workings. It measures feature inﬂuences by intervening on inputs and estimating their Shapley values, representing the features’ average marginal contributions over all possible feature combinations. The main contribution is to develop a systematic analytical framework that could be used for approaching explainability questions in real world ﬁnancial applications.
