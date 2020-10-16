@@ -3,7 +3,9 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![GitHub](https://img.shields.io/github/license/mourarthur/awesome-credit-modeling?style=flat-square)](LICENSE)
 
-A growing collection of awesome papers, articles and various resources on credit and credit risk modeling.
+> A growing collection of awesome papers, articles and various resources on credit scoring and credit risk modeling.
+
+Credit scoring is the term used to describe formal statistical methods used for classifying applicants for credit into risk classes. Lenders use such classifications to assess an applicant's creditworthiness and probability of default.
 
 ## Contents
 
