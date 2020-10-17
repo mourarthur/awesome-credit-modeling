@@ -22,7 +22,7 @@ Credit scoring is the term used to describe formal statistical methods used for 
 
 - [Consumer Finance: Challenges for Operational Research](https://www.jstor.org/stable/40540227) - Reviews the development of credit scoring (the way of assessing risk in consumer finance) and what is meant by a credit score. Outlines 10 challenges for Operational Research to support modelling in consumer finance.
 
-- [Machine Learning in Credit Risk Modeling](resources/2017_machine-learning-in-credit-risk-modeling.pdf) - James (formerly CrowdProcess) is a now-defunct online credit risk management startup that provided risk management tools to financial institutions. This whitepaper offers an overview of machine learning applications in the field of credit risk modeling.
+- [Machine Learning in Credit Risk Modeling](https://www.slideshare.net/YvanDeMunck/machine-learning-in-credit-risk-modeling-a-james-white-paper) - James (formerly CrowdProcess) is a now-defunct online credit risk management startup that provided risk management tools to financial institutions. This whitepaper offers an overview of machine learning applications in the field of credit risk modeling.
 
 - ['Lending by numbers': credit scoring and the constitution of risk within American consumer credit](https://www.tandfonline.com/doi/abs/10.1080/03085140601089846) - Examines how statistical credit-scoring technologies became applied by lenders to the problem of controlling levels of default within American consumer credit. Explores their perceived methodological, procedural and temporal risks.
 
