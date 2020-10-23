@@ -1,6 +1,5 @@
 # Awesome Credit Modeling [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![GitHub](https://img.shields.io/github/license/mourarthur/awesome-credit-modeling?style=flat-square)](LICENSE)
 
 > A growing collection of awesome papers, articles and various resources on credit scoring and credit risk modeling.
 
